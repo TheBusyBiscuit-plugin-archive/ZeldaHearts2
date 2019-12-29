@@ -1,0 +1,8 @@
+name: ZeldaHearts
+version: ${project.version}
+author: TheBusyBiscuit
+website: http://dev.bukkit.org/profiles/mrCookieSlime/bukkit-plugins/
+
+main: io.github.thebusybiscuit.zeldahearts.ZeldaHearts
+
+softdepend: [Slimefun]

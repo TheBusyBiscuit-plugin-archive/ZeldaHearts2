@@ -1,0 +1,16 @@
+options:
+  auto-update: true
+
+hearts:
+  drop-on-kill: true
+  drop-canisters:
+  - WITHER
+  - ENDER_DRAGON
+  - GIANT
+  max-hearts: 20
+  starting-hearts: 3
+
+thief-mode:
+  enabled: false
+  min-hearts: 3
+  chance: 100
